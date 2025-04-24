@@ -26,7 +26,7 @@
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anthony-Hilario&show_icons=true&theme=tokyonight)
 
 ---
 
