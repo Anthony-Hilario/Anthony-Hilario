@@ -17,10 +17,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, Python, SQL, C++
+- **Linguagens:** HTML, CSS, JavaScript, Python, SQL, C++
 - **Frameworks:** React Native, Pandas, Matplotlib, NodeJS, Express, Bootstrap, NPM, React
-- **Ferramentas:** Git, GitHub, Figma, Terminal Linux
-- **Conceitos:** Testes de software, WebSocket, consumo de API, banco de dados relacional e não-relacional, binning, análise exploratória
+- **Ferramentas:** Git, GitHub, Figma, Terminal Linux, Jupyter
+- **Conceitos:** Testes de software, WebSocket, UX e UI, consumo de API, banco de dados relacional e não-relacional, binning, análise exploratória
 
 ---
 
