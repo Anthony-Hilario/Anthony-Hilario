@@ -24,12 +24,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anthony-Hilario&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 - ✉️ anthonyhilario.dev@gmail.com
