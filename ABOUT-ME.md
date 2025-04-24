@@ -11,7 +11,8 @@
 
 - 🔐 **Tranca Eletrônica IoT** – Um sistema inteligente de acesso via app mobile (React Native) e ESP32 com leitura de QR Code e RFID  
 - 🛒 **Mercado Online** – Plataforma de compras para supermercados com retirada no local, tanto para clientes quanto para funcionários  
-- 🐾 **Enciclopédia de Animais** – App educacional que mostra informações e sons dos animais em uma interface limpa e interativa  
+- 🐾 **Enciclopédia de Animais** – App educacional que mostra informações e sons dos animais em uma interface limpa e interativa
+- 🍦 **Página Web Responsiva - Catálogo de Sorvetes** - Projeto front-end com HTML e CSS, utilizando Media Queries que apresenta uma vitrine interativa e adaptável para exibir imagens de sorvetes em grid. Layout responsivo e foco em experiência do usuário tanto para PC, quanto para Mobile.
 
 ---
 
