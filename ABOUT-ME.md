@@ -2,6 +2,7 @@
 
 🎓 Estudante de Tecnologia em Sistemas para Internet  
 💻 Desenvolvedor apaixonado por mobile, front-end e principalmente pela área de dados e SQL
+
 🚀 Sempre buscando aprender mais e aplicar o conhecimento em projetos práticos  
 🎯 Objetivo atual: ingressar no mercado de trabalho, aplicando meus conhecimentos e sempre aprendendo com as conquistas e derrotas
 
